@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\CompSci\Justin_Vannimwegen_Displttext.cpp">
+    <ClCompile Include="Justin_Vannimwegen_Displttext.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
